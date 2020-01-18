@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="091bd579-2b00-4ed9-8687-d1a8d1524fe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cyclone.py" beforeDir="false" afterPath="$PROJECT_DIR$/cyclone.py" afterDir="false" />
     </list>
@@ -52,9 +51,11 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="399" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1578867675295">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state x="399" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1579366944292">
+      <screen x="0" y="23" width="1440" height="803" />
     </state>
+    <state x="399" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.800/1440.-112.2560.1417@0.23.1440.800" timestamp="1579128650454" />
+    <state x="399" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.803@0.23.1440.803" timestamp="1579366944292" />
     <state x="399" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1578867675295" />
     <state x="399" y="269" key="com.intellij.ide.util.TipDialog/1440.23.2560.1417/0.23.1440.827@0.23.1440.827" timestamp="1578639798703" />
   </component>
